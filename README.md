@@ -17,7 +17,6 @@
 
 ## Technologies
 SDWebImage - [SDWebImage](https://github.com/SDWebImage/SDWebImage)<br/>
-OCR - [Apple Vision framework](https://developer.apple.com/documentation/vision) <br/>
 
 
 ## How to run a demo app
