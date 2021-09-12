@@ -39,4 +39,4 @@ OCR - [Apple Vision framework](https://developer.apple.com/documentation/vision)
 
 ## License
 
-OCR ios app is available under the MIT license. See the LICENSE file for more info.
+VK-News-Feed-App ios app is available under the MIT license. See the LICENSE file for more info.
